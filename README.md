@@ -15,7 +15,7 @@
 - [Эмулятор наследования классов](https://github.com/BotSaibot/pract_python_basics_and_applications/blob/main/README.md#%D1%8D%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D0%BD%D0%B0%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%BE%D0%B2)
 - [Реализация класса `Buffer`](https://github.com/BotSaibot/pract_python_basics_and_applications/blob/main/README.md#%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B0-buffer)
 - [Реализация класса `MoneyBox`](https://github.com/BotSaibot/pract_python_basics_and_applications/blob/main/README.md#%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B0-moneybox)
-- [Эмулятор пространства имен](https://github.com/BotSaibot/pract_python_basics_and_applications/blob/main/README.md#%D1%8D%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%B0-%D0%B8%D0%BC%D0%B5%D0%BD)
+- [Эмулятор пространства имен](#%D1%8D%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%B0-%D0%B8%D0%BC%D0%B5%D0%BD)
 
 ## [XML, библиотека ElementTree, библиотека lxml]()
 Вам дано описание пирамиды из кубиков в формате XML.
