@@ -1,22 +1,21 @@
 # Курс &#8212; [Python: основы и применение](https://stepik.org/course/512)
 
 **Оглавление:**
-https://github.com/BotSaibot/pract_proj_bot/blob/main/README.md#%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5
-[XML, библиотека ElementTree, библиотека lxml]()
-[API сайта artsy.net]()
-[API сайта numbersapi.com]()
-[Введение в API для Python]()
-[Пример обработки CSV файлов]()
-[Описание наследования классов в формате JSON]()
-[Пример использования стороннего модуля]()
-[Собственные исключения]()
-[Эмулятор отлова исключений]()
-[Пример множественного наследования]()
-[Расширенный стек]()
-[Эмулятор наследования классов]()
-[Реализация класса `Buffer`]()
-[Реализация класса `MoneyBox`]()
-[Эмулятор пространства имен]()
+- [XML, библиотека ElementTree, библиотека lxml](https://github.com/BotSaibot/pract_python_basics_and_applications/blob/main/README.md#xml-%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0-elementtree-%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0-lxml)
+- [API сайта artsy.net](https://github.com/BotSaibot/pract_python_basics_and_applications/blob/main/README.md#api-%D1%81%D0%B0%D0%B9%D1%82%D0%B0-artsynet)
+- [API сайта numbersapi.com](https://github.com/BotSaibot/pract_python_basics_and_applications/blob/main/README.md#api-%D1%81%D0%B0%D0%B9%D1%82%D0%B0-numbersapicom)
+- [Введение в API для Python](https://github.com/BotSaibot/pract_python_basics_and_applications/blob/main/README.md#%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-api-%D0%B4%D0%BB%D1%8F-python)
+- [Пример обработки CSV файлов](https://github.com/BotSaibot/pract_python_basics_and_applications/blob/main/README.md#%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80-%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8-csv-%D1%84%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2)
+- [Описание наследования классов в формате JSON](https://github.com/BotSaibot/pract_python_basics_and_applications/blob/main/README.md#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BD%D0%B0%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%BE%D0%B2-%D0%B2-%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B5-json)
+- [Пример использования стороннего модуля](https://github.com/BotSaibot/pract_python_basics_and_applications/blob/main/README.md#%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B5%D0%B3%D0%BE-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8F)
+- [Собственные исключения](https://github.com/BotSaibot/pract_python_basics_and_applications/blob/main/README.md#%D1%81%D0%BE%D0%B1%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5-%D0%B8%D1%81%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)
+- [Эмулятор отлова исключений](https://github.com/BotSaibot/pract_python_basics_and_applications/blob/main/README.md#%D1%8D%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D0%BE%D1%82%D0%BB%D0%BE%D0%B2%D0%B0-%D0%B8%D1%81%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B9)
+- [Пример множественного наследования](https://github.com/BotSaibot/pract_python_basics_and_applications/blob/main/README.md#%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80-%D0%BC%D0%BD%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BD%D0%B0%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)
+- [Расширенный стек](https://github.com/BotSaibot/pract_python_basics_and_applications/blob/main/README.md#%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D1%81%D1%82%D0%B5%D0%BA)
+- [Эмулятор наследования классов](https://github.com/BotSaibot/pract_python_basics_and_applications/blob/main/README.md#%D1%8D%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D0%BD%D0%B0%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%BE%D0%B2)
+- [Реализация класса `Buffer`](https://github.com/BotSaibot/pract_python_basics_and_applications/blob/main/README.md#%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B0-buffer)
+- [Реализация класса `MoneyBox`](https://github.com/BotSaibot/pract_python_basics_and_applications/blob/main/README.md#%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B0-moneybox)
+- [Эмулятор пространства имен](https://github.com/BotSaibot/pract_python_basics_and_applications/blob/main/README.md#%D1%8D%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%B0-%D0%B8%D0%BC%D0%B5%D0%BD)
 
 ## [XML, библиотека ElementTree, библиотека lxml]()
 Вам дано описание пирамиды из кубиков в формате XML.
@@ -506,7 +505,7 @@ except <имя 2>:
 Создавать классы исключений также не требуется
 Мы просим вас промоделировать этот процесс, и понять какие из исключений можно и не ловить, потому что мы уже ранее где-то поймали их предка.
 
-**<center><h5>Формат входных данных</h5></center>**
+**Формат входных данных**
 
 В первой строке входных данных содержится целое число **n** - число классов **исключений**.
 
@@ -516,11 +515,11 @@ except <имя 2>:
 Следующие **m** строк содержат имена исключений в том порядке, в каком они были написаны у Антона в коде.
 Гарантируется, что никакое исключение не обрабатывается дважды.
 
-**<center><h5>Формат выходных данных</h5></center>**
+**Формат выходных данных**
 
 Выведите в отдельной строке имя каждого исключения, обработку которого можно удалить из кода, не изменив при этом поведение программы. Имена следует выводить в том же порядке, в котором они идут во входных данных.
 
-**<center><h5>Пример теста 1</h5></center>**
+**Пример теста 1**
 
 Рассмотрим код
 ```python
@@ -627,7 +626,7 @@ class ExtendedStack(list):
 Для добавления элемента на стек используется метод **append**, а для снятия со стека – метод **pop**.<br>
 Гарантируется, что операции будут совершаться только когда в стеке есть хотя бы два элемента.
 
-## Решение
+### Решение
 ```python
 class ExtendedStack(list):
     def check(self) -> bool:
@@ -694,7 +693,7 @@ class C(B):
 Создавать классы не требуется.<br>
 Мы просим вас промоделировать этот процесс, и понять существует ли путь от одного класса до другого.
 
-**<center><h5>Формат входных данных</h5></center>**
+**Формат входных данных**
 
 В первой строке входных данных содержится целое число **n** - число классов.
 
@@ -705,7 +704,7 @@ class C(B):
 В следующих **q** строках содержится описание запросов в формате **<имя класса 1> <имя класса 2>**.
 Имя класса – строка, состоящая из символов латинского алфавита, длины не более 50.
 
-**<center><h5>Формат выходных данных</h5></center>**
+**Формат выходных данных**
 
 Для каждого запроса выведите в отдельной строке слово `"Yes"`, если **класс 1** является предком **класса 2**, и `"No"`, если не является.
 
